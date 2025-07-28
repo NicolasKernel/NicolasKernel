@@ -6,7 +6,7 @@ Hi! I'm **Nicolas**, a student passionate about **backend development** and **Py
 
 - **Languages**: Python, HTML, CSS
 - **Backend**: Python (Flask/Django - learning)
-- **Database**: PostgreSQL
+- **Database**: 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - **GUI Frameworks**: Tkinter, Kivy
 - **Version Control**: Git, GitHub
 - **Tools**: Visual Studio Code, PostgreSQL, Docker (learning)
