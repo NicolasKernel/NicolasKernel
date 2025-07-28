@@ -1,4 +1,4 @@
-# ❄️ | Hi there!
+# ❄️ Hi there!
 
 Hi! I'm **Nicolas**, a student passionate about **backend development** and **Python**.
 
