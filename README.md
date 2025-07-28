@@ -1,16 +1,25 @@
-## Hi there 👋
+# ❄️ | Hi there!
 
-<!--
-**NicolasKernel/NicolasKernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Nicolas**, a student passionate about **backend development** and **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages**: Python, HTML, CSS
+- **Backend**: Python (Flask/Django - learning)
+- **Database**: PostgreSQL
+- **GUI Frameworks**: Tkinter, Kivy
+- **Version Control**: Git, GitHub
+- **Tools**: Visual Studio Code, PostgreSQL, Docker (learning)
+
+---
+
+## 📚 Currently Learning
+- **Django** for building full-stack web applications.
+- **Docker** for containerizing applications.
+- Exploring **GraphQL** and its advantages over REST APIs.
+
+---
+
+Thanks for visiting my GitHub profile!
